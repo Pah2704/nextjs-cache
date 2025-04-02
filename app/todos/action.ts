@@ -27,5 +27,6 @@ export const deleteTodo = async (id: string) => {
   if (response.ok) {
     //revalidatePath("/todos");
     revalidateTag("todos-list");
+    revalidateTag(`todo-${id}`);
   }
 };

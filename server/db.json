@@ -1,28 +1,38 @@
 {
   "todos": [
     {
-      "id": "1",
-      "title": "Buy milk"
-    },
-    {
-      "id": "2",
-      "title": "Walk the dog"
-    },
-    {
-      "id": "3",
-      "title": "Do laundry"
-    },
-    {
-      "id": "4",
-      "title": "Buy eggs"
-    },
-    {
       "id": "5",
       "title": "Buy bread"
     },
     {
-      "id": "ab6a",
-      "title": "Buy bread"
+      "id": "c7d8",
+      "title": "Buy paper"
+    },
+    {
+      "id": "e5f6",
+      "title": "Buy milk"
+    },
+    {
+      "id": "a1b2",
+      "title": "Buy eggs"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello world"
+    },
+    {
+      "id": "2",
+      "title": "Hello world 2"
+    },
+    {
+      "id": "3",
+      "title": "Hello world 3"
+    },
+    {
+      "id": "4",
+      "title": "Hello world 4"
     }
   ]
 }
